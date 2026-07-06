@@ -30,7 +30,7 @@ Ofrecer una experiencia de Minecraft más accesible, estable y optimizada, mante
 
 ## Comunidad
 
-- Sitio web: http://www.cubiclauncher.com/  
+- Sitio web: http://www.cubiclauncher.org/  
 - Discord: https://discord.com/invite/7VaqSrPukm  
 - Reddit: https://www.reddit.com/r/CubicLauncher/
 
