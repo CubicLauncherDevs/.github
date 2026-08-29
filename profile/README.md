@@ -1,8 +1,4 @@
 # CubicLauncher
-
-> ⚠️ **AVISO OFICIAL**  
-> Esta organización es la **Oficial de cubicLauncher**. Se ha creado debido a problemas recientes en GitHub que afectaron la organización anterior y para mantener la continuidad del proyecto de forma segura y verificada.
-
 ## ¿Qué es CubicLauncher?
 
 CubicLauncher es un launcher alternativo de Minecraft enfocado en rendimiento, simplicidad y accesibilidad.
